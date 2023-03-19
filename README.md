@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 
 # 📈 Activity
 [![Nasir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=21IT146&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/21IT146/github-readme-activity-graph)
-
-<!-- # Leetcode Stats 🏆
+ # Leetcode Stats 🏆
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nasir146?ext=heatmap)
- -->
-
